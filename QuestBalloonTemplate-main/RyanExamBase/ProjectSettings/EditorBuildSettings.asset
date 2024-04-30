@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 31283aab81020e44585b578d8f706918
+  - enabled: 1
+    path: Assets/Scenes/ZenGarden.unity
+    guid: 7eef69193a4285c4b9a634ab23da6803
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: aff78bbba6693f64eb2c92051e9e92b1
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 82540a5b29e28c14eb7ec57e11dfa3ae, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a4a5212bb9d4caf46bb789e6188ba312, type: 2}

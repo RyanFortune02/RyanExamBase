@@ -6492,6 +6492,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4926590348205885373, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4926590348205885373, guid: 522b89d0f09cc834db5f015f40e578f3, type: 3}
       propertyPath: AimCollisionLayerMask.m_Bits
       value: 1
       objectReference: {fileID: 0}
@@ -9742,8 +9746,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 205.43, y: 107}
-  m_SizeDelta: {x: 250.47, y: 30}
+  m_AnchoredPosition: {x: 293.53174, y: 106}
+  m_SizeDelta: {x: 413.533, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1425042093
 MonoBehaviour:
